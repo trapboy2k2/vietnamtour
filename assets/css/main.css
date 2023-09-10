@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;700;800&family=Roboto:ital,wght@0,700;1,500&display=swap');
+.text-primary-color
+{
+    color: rgb(0 87 217);
+}
+.border-primary-color
+{
+    border-color: #0057d9;
+}
+.bg-primary-color
+{
+    background-color: rgb(0 87 217);
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.background
+{
+    background-image: url("/assets/img/header.jpg");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+}
+.sign-up{
+    background-color: rgb(224 200 188)
+
+}
+.btn-sign-up:hover{
+    background-color: rgb(54 91 146)
+}
+.img-man
+{
+    border-radius: 50%;
+}
